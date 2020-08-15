@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://ananthu:ananthu@mernsetup.wo7zv.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://ananthu:ananthu@mernsetup.wo7zv.mongodb.net/backend?retryWrites=true&w=majority",
+  "jwtSecret": "ananthu"
 }
